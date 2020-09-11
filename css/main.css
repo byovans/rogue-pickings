@@ -110,32 +110,41 @@ img {
 .menu-area {
         float: left;
         line-height: 25px;
-        width: 399px;
+        width: 300px;
         height: 150px;
         border-top: 1px solid #d3d3d3;
 }
 
 .contact-us-area {
         float: right;
-        width: 390px;
+        width: 200px;
         height: 150px;
         line-height: 25px;
         text-align: center;
         border-top: 1px solid #d3d3d3;
-        margin-right: 49px;
+        margin-right: 140px;
 }
 
 .reviews-area {
         float: left;
-        width: 500px;
+        width: 698px;
         line-height: 20px;
         height: 150px;
         border-left: 1px solid #d3d3d3;
         border-top: 1px solid #d3d3d3;
         border-right: 1px solid #d3d3d3;
-        padding-top: 0;
+        padding-top: 0 5px;
         margin-left: 0px;
+        text-align: center;
 }
+
+
+.p_reviews {
+        margin-bottom: 0;
+        line-height: 25px;
+        padding: 0 10px;
+}
+
 
 .menu-area ul {
         color: #8fbc8f;
@@ -159,4 +168,9 @@ img {
 footer {
         clear: both;
         margin-top: 10px;
+}
+
+
+.ft {
+        padding-top: 10px;
 }
